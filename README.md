@@ -1,4 +1,4 @@
-# 👋 Hola, soy Martín Ocampo
+# 👋 Hola, soy Martín!
 
 Desarrollador Front-End enfocado en crear experiencias web dinámicas, escalables y accesibles.
 
@@ -29,7 +29,7 @@ Desarrollador Front-End enfocado en crear experiencias web dinámicas, escalable
 
 ### ✉️ Contacto
 - imd.mocampo@gmail.com
-- - 💼 [LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-ocampo-53bab2262/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-ocampo-53bab2262/)
 
 ---
 
